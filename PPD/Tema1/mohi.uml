@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.mohi</OriginalElement>
+  <nodes>
+    <node x="757.9166666666665" y="78.0">com.mohi.PixelMatrixIO</node>
+    <node x="223.66666666666657" y="359.0">com.mohi.ConvolutionLogic</node>
+    <node x="366.5249999999999" y="783.0">com.mohi.Main</node>
+    <node x="0.0" y="0.0">com.mohi.Worker</node>
+    <node x="794.6666666666665" y="304.0">com.mohi.ConvolutionMain</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.mohi.ConvolutionLogic" target="com.mohi.PixelMatrixIO">
+      <point x="0.0" y="-159.5" />
+      <point x="499.1666666666666" y="274.0" />
+      <point x="800.4166666666665" y="274.0" />
+      <point x="-127.5" y="49.0" />
+    </edge>
+    <edge source="com.mohi.ConvolutionLogic" target="com.mohi.Worker">
+      <point x="-183.66666666666663" y="-159.5" />
+      <point x="0.0" y="127.0" />
+    </edge>
+    <edge source="com.mohi.ConvolutionMain" target="com.mohi.PixelMatrixIO">
+      <point x="-175.75" y="-214.5" />
+      <point x="42.5" y="49.0" />
+    </edge>
+    <edge source="com.mohi.Main" target="com.mohi.ConvolutionLogic">
+      <point x="-60.0" y="-38.0" />
+      <point x="426.5249999999999" y="758.0" />
+      <point x="361.4166666666666" y="758.0" />
+      <point x="-137.75" y="159.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="728.8174603174602" y="346.2142857142857" />
+  <SelectedNodes>
+    <node>com.mohi.Worker</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

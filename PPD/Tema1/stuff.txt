@@ -1,0 +1,25 @@
+bool isOnFrontier(int pos_i, int pos_j, int N, int M, int n, int m,
+		int start_i, int start_j, int end_i, int end_j) {
+
+		int kernel_reach = n / 2;
+
+		if (start_i != 0 || start_j != 0) {
+			if (pos_i < start_i + kernel_reach) {
+				return true;
+			}
+			if (start_j != 0 && pos_j <= start_j && pos_i == start_i + kernel_reach) {
+				return true;
+			}
+		}
+
+		if (end_i != N - 1 || end_j != M - 1) {
+			if (pos_i > end_i - kernel_reach) {
+				return true;
+			}
+			if (end_j != M - 1 && pos_j >= end_j && pos_i == end_i - kernel_reach) {
+				return true;
+			}
+		}
+
+		return false;
+	}

@@ -1,0 +1,33 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¶¦°Š8úÈ—ù×/
+8
+java:S2326"E is not used in the class.(¶¦°Š8ˆÉ—ù×/
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ƒ™³şÿÿÿÿ8òñÂù×/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹åÀ8òñÂù×/
+P
+java:S1854"5Remove this useless assignment to local variable "x".(èÅŸáùÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "m".(”ğå¿şÿÿÿÿ
+R
+java:S1854"5Remove this useless assignment to local variable "x".(Ù©ú°8ˆó¦ù×/
+W
+java:S2209"5Change this instance-reference to a static reference.(Â‘­ÿÿÿÿÿ8‡‰¹ù×/
+<
+java:S2153"Remove the boxing to "Integer".(Ù©ú°8—ó¦ù×/
+>
+java:S2129"!Remove this "Integer" constructor(Ù©ú°8ìı£ù×/
+L
+java:S1874"/Remove this use of "Integer"; it is deprecated.(Ù©ú°8ğı£ù×/
+<
+java:S1481"&Remove this unused "x" local variable.(Ù©ú°
+C
+java:S2129"!Remove this "Integer" constructor(ØØşûÿÿÿÿ8Èó¦ù×/
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ØØşûÿÿÿÿ8Èó¦ù×/
+A
+java:S1481"&Remove this unused "m" local variable.(”ğå¿şÿÿÿÿ
+H
+java:S1481"&Remove this unused "x" local variable.(èÅŸáùÿÿÿÿ8Ìó¦ù×/

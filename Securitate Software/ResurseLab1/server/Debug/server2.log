@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  server.c
+  data.c
+  commands.c
+  utils.c
+  Generating Code...
+utils.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  server2.vcxproj -> D:\An3Sem1\Securitate Software\ResurseLab1\Debug\server.exe

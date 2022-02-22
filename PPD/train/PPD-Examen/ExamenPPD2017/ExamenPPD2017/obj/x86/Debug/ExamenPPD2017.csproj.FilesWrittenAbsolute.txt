@@ -1,0 +1,5 @@
+/home/horatiu/Documents/Facultate/Anul 3/Semestrul 1/Programare Paralela si Distribuita/Examen/Practic/ExamenPPD2017/ExamenPPD2017/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/horatiu/Documents/Facultate/Anul 3/Semestrul 1/Programare Paralela si Distribuita/Examen/Practic/ExamenPPD2017/ExamenPPD2017/bin/Debug/ExamenPPD2017.exe.mdb
+/home/horatiu/Documents/Facultate/Anul 3/Semestrul 1/Programare Paralela si Distribuita/Examen/Practic/ExamenPPD2017/ExamenPPD2017/bin/Debug/ExamenPPD2017.exe
+/home/horatiu/Documents/Facultate/Anul 3/Semestrul 1/Programare Paralela si Distribuita/Examen/Practic/ExamenPPD2017/ExamenPPD2017/obj/x86/Debug/ExamenPPD2017.exe
+/home/horatiu/Documents/Facultate/Anul 3/Semestrul 1/Programare Paralela si Distribuita/Examen/Practic/ExamenPPD2017/ExamenPPD2017/obj/x86/Debug/ExamenPPD2017.exe.mdb

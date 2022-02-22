@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{85B65E26-ECD0-44F2-A4AE-BAD916E6234B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamenPPD2017/Program.cs">
+    <Files>
+      <File FileName="ExamenPPD2017/Program.cs" Line="23" Column="29" />
+      <File FileName="ExamenPPD2017/Controllers/MyController.cs" Line="57" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExamenPPD2017 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

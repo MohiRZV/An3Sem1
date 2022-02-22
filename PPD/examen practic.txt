@@ -1,0 +1,31 @@
+Producer-consumer
+2.wait-notify
+
+de ex
+Parcare, la 2ms intra o masina, sa nu intre mai multe deodata
+1.syncronizari
+evitam race conditions
+3. conditie de stop
+
+
+scris:
+1. teorie
+lege ambdal
+semafor
+etc explicatie ce e, nu neaparat def 1:1 + schita program in care sa il folosim
+
+2. program scris de mana MPI
+send, recv, etc
+scatter, gather
+3. OpenMP
+cod sursa - functioneste sau nu?
+7 intrebari
+nr threaduri, unde se creeaza, distrug - liniile
+variabile shared, private, section, for, collapse
+4. grile ish
+subiect java
+cu explicatii - de ce e bun ce am bifat si dc nu e bun ce n-am bifat
+daca e determinist sau nu programul si de ce and stuff
+apare deadlock si de ce da/nu
+
+( ^ _ ^ )
